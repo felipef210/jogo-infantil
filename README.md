@@ -1,6 +1,6 @@
 # Vick Count
 
-Jogo com foco para crianças desenvolvido em c# (windows form). Objetivo do jogo é estimular a criança a contar objetos, exibindo assim 2 objetos diferentes com quantidades aleatórias.
+Jogo com foco para crianças desenvolvido em c# (windows form). O objetivo do Vick Count é estimular a criança a contar objetos, exibindo assim 2 objetos diferentes com quantidades aleatórias.
 
 Para testar o jogo siga os passos a seguir:
 
