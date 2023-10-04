@@ -13,10 +13,10 @@
 
 <h2 align="center"> Linguagens e ferramentas</h2>
   
-<img alt="c" src="https://icons8.com/icon/45490/c-sharp-logo-2">
-<img alt="Visual Studio logo" src="https://icons8.com/icon/ezj3zaVtImPg/visual-studio">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <p>
-  Obs: Utilize o visual studio para uma melhor experiência.
+  <b>Obs: Utilize o visual studio para uma melhor experiência.</b>
 </p>
