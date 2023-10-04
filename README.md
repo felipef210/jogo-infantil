@@ -11,10 +11,10 @@
 <p>2 - Na janela lateral direita clique em "Form1.cs";</p>
 <p>3 - Na barra superior do visual studio clique em iniciar.</p>
 
-<h1 align="center"> Linguagens e ferramentas<h1>
+<h2 align="center"> Linguagens e ferramentas</h2>
   
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23?labelColor=black&color=green">
-<img alt="Visual Studio logo" src="https://img.shields.io/badge/Visual%20Studio?labelColor=black&color=purple">
+<img alt="c" src="https://icons8.com/icon/45490/c-sharp-logo-2">
+<img alt="Visual Studio logo" src="https://icons8.com/icon/ezj3zaVtImPg/visual-studio">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
 
 <p>
